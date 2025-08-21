@@ -45,7 +45,7 @@ I’m passionate about software engineering, problem-solving, and building real-
 ---
 
 ## 📫 Connect with Me
-- GitHub: [github.com/your-username](https://github.com/Abdelhay24)  
+- GitHub:(https://github.com/Abdelhay24)  
 - Email: medabdlhay8@example.com  
 
 ---
