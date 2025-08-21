@@ -1,48 +1,54 @@
 # Hi 👋, I'm Abd Lhay  
 
-💻 **Full-Stack Developer | Computer Science Student | Chess Enthusiast**  
-
-I’m passionate about building scalable applications, exploring cybersecurity, and sharing knowledge through projects and content creation. Currently, I’m working on academic projects, freelancing preparation, and chess-related platforms for the Mauritanian and Arab communities.  
+🎓 I am a **third-year Computer Science student** at **SUPNUM (Institut Supérieur du Numérique, Mauritania)**, specializing in **Développement Système Informatique**.  
+I’m passionate about software engineering, problem-solving, and building real-world applications that bring value to my community.  
 
 ---
 
-## 🚀 Skills
+## 🚀 About Me
+- 💻 **Full-Stack Developer** (Django, Flask, Spring Boot, Angular, React, Flutter)  
+- 🔐 **Cybersecurity Enthusiast** (network analysis, SQLi, VPN/Wireguard, penetration testing)  
+- 📊 **Optimization & AI** (Machine Learning, OR-Tools for operations research)  
+- ♟️ **Chess Promoter** – building platforms to spread chess in Mauritania and the Arab world  
+- 🌍 Preparing for **freelancing and real-world projects**  
 
-### 🌐 Web Development
-- **Frontend**: HTML, CSS, JavaScript, React, Flutter  
-- **Backend**: Django, Flask, Spring Boot, PHP  
+---
+
+## 🛠️ Skills
+
+### 🌐 Web & App Development
+- **Frontend**: HTML, CSS, JavaScript, Angular, React, Flutter  
+- **Backend**: Django REST Framework, Flask, Spring Boot, PHP  
 - **Databases**: MySQL, Oracle, MongoDB  
 
-### ⚙️ DevOps & Tools
-- Docker, Git & GitHub, Linux (Pop!_OS), XAMPP  
+### ⚙️ Tools & DevOps
+- Git & GitHub, Docker, XAMPP, Linux (Pop!_OS)  
 
-### 📊 Data & AI
-- Machine Learning (Python, scikit-learn, OR-Tools)  
-- Operational Research & Optimization Problems  
+### 📊 Data & Optimization
+- Machine Learning (Python, scikit-learn)  
+- Operations Research (Knapsack, Bin Packing, Cutting Stock, Scheduling with OR-Tools)  
 
 ### 🔐 Cybersecurity
-- Penetration Testing (SQLi, brute force, VPN/Wireguard)  
-- Network Analysis & Secure Development  
-
-### ♟️ Other Interests
-- Chess (playing & promoting in Mauritania and the Arab world)  
-- Content creation (editing, design, and educational videos)  
+- Penetration Testing (SQLi, brute force, vulnerability exploration)  
+- VPN/Wireguard setup, secure development practices  
 
 ---
 
-## 📂 Featured Projects
-- 📚 **Library Management App (Android - Java)**  
-- 🛒 **E-commerce Website (Django + MySQL)**  
-- ♟️ **Coffee Chess League API (Flask REST)**  
-- ⚙️ **Optimization Problems with OR-Tools (Python)**  
+## 📂 Notable Projects
+- 👨‍🏫 **Gestion des Enseignants** – teacher management system  
+- 🗄️ **Archive SUPNUM** – platform for students to download PDF lessons by subject -Android (Java)  - 
+- 💾 **Backup Service** – Angular frontend + Django REST backend  
+- 🛒 **E-commerce Website** – with spring boot and MySQL 
+- ♟️ **Coffee Chess League API** – Flask REST API with players, tournaments, and sponsors  
+- 🔐 **Cybersecurity TP** – SQLi, VPN, and network analysis labs  
 
 ---
 
 ## 📫 Connect with Me
-- GitHub: [github.com/your-username](https://github.com/abdelhay24)  
-- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
+- GitHub: [github.com/your-username](https://github.com/Abdelhay24)  
 - Email: medabdlhay8@example.com  
 
 ---
 
-⭐️ *“Code, Learn, Share — and Make Impact!”*
+⭐️ *“Code, Learn, Share — and Make an Impact!”*  
+
