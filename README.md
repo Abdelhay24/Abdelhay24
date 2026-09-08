@@ -1,54 +1,60 @@
-# Hi 👋, I'm Abd Lhay  
+# Hi 👋, I'm Abdelhay
 
-🎓 I am a **third-year Computer Science student** at **SUPNUM (Institut Supérieur du Numérique, Mauritania)**, specializing in **Développement Système Informatique**.  
-I’m passionate about software engineering, problem-solving, and building real-world applications that bring value to my community.  
+**Software Engineer** with a Bachelor's degree in Systems Development, currently pursuing a **Master's degree in Cybersecurity**.
 
----
-
-## 🚀 About Me
-- 💻 **Full-Stack Developer** (Django, Flask, Spring Boot, Angular, React, Flutter)  
-- 🔐 **Cybersecurity Enthusiast** (network analysis, SQLi, VPN/Wireguard, penetration testing)  
-- 📊 **Optimization & AI** (Machine Learning, OR-Tools for operations research)  
-- ♟️ **Chess Promoter** – building platforms to spread chess in Mauritania and the Arab world  
-- 🌍 Preparing for **freelancing and real-world projects**  
+I work as a Software Engineer at **Kenz Mining SA**, where I design, develop, and implement software systems that solve real business problems. Based in Mauritania.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Stack
 
-### 🌐 Web & App Development
-- **Frontend**: HTML, CSS, JavaScript, Angular, React, Flutter  
-- **Backend**: Django REST Framework, Flask, Spring Boot, PHP  
-- **Databases**: MySQL, Oracle, MongoDB  
+**Daily**
+- **Backend:** Python, Django, Django REST Framework
+- **Frontend:** Angular, TypeScript, SCSS
+- **Data:** PostgreSQL, Redis
+- **Infra:** Docker, Linux, Nginx, Git
+- **ERP:** Odoo 19 Enterprise — configuration, Studio, analytic accounting, POS, manufacturing
 
-### ⚙️ Tools & DevOps
-- Git & GitHub, Docker, XAMPP, Linux (Pop!_OS)  
+**Also used**
+Flask · Spring Boot · React · Flutter · PHP · MySQL · MongoDB · scikit-learn · OR-Tools
 
-### 📊 Data & Optimization
-- Machine Learning (Python, scikit-learn)  
-- Operations Research (Knapsack, Bin Packing, Cutting Stock, Scheduling with OR-Tools)  
-
-### 🔐 Cybersecurity
-- Penetration Testing (SQLi, brute force, vulnerability exploration)  
-- VPN/Wireguard setup, secure development practices  
+**Security** — WireGuard/VPN, network analysis, secure development practices, web vulnerability fundamentals (SQLi, brute force). Deepening this formally through my Master's.
 
 ---
 
-## 📂 Notable Projects
-- 👨‍🏫 **Gestion des Enseignants** – teacher management system  
-- 🗄️ **Archive SUPNUM** – platform for students to download PDF lessons by subject -Android (Java)  - 
-- 💾 **Backup Service** – Angular frontend + Django REST backend  
-- 🛒 **E-commerce Website** – with spring boot and MySQL 
-- ♟️ **Coffee Chess League API** – Flask REST API with players, tournaments, and sponsors  
-- 🔐 **Cybersecurity TP** – SQLi, VPN, and network analysis labs  
+## 📂 Selected work
+
+**Kenz Management** — production performance & executive dashboard platform
+`Django · Angular · PostgreSQL · Redis · Docker`
+Built at Kenz Mining SA, started as an internship project and now deployed and in daily use. Includes an Executive Decision Tracking (EDT) admin dashboard and generated PDF reports written for a non-technical executive audience (ReportLab + Matplotlib). Responsive layout built on a four-breakpoint SCSS mixin strategy, no CSS framework.
+
+**Meal ticketing system** — ZKTeco / ZKBio Time integration
+`Django · REST · biometric terminals`
+Employees scan at a biometric terminal, the platform records the order and prints a ticket at the counter. Built against a live deployment (3 terminals, ~600 employees, 200k+ transaction logs): cursor-based polling ingestion with a deliberate overlap window, unique constraints to absorb duplicate scans, and a pull-based print agent so printer or network outages queue jobs instead of dropping orders.
+
+**AI hackathon — 2nd place**
+Land-suitability analysis from satellite data, at Mauritania's largest AI hackathon.
+
+*Worked with: Kenz Mining SA · AWLYG TECH · MIZAB OR*
 
 ---
 
-## 📫 Connect with Me
-- GitHub:(https://github.com/Abdelhay24)  
-- Email: medabdlhay8@example.com  
+## 🎯 Beyond code
+
+♟️ Founding **NSH Chess Club** in Nouakchott — working on growing chess locally.
+
+📚 Going deeper on **AI engineering** — RAG, embeddings, and agents.
+
+🗣️ Arabic · French · English
 
 ---
 
-⭐️ *“Code, Learn, Share — and Make an Impact!”*  
+## 📫 Get in touch
 
+- **GitHub:** [@Abdelhay24](https://github.com/Abdelhay24)
+- **LinkedIn:** [abd-lhay](https://www.linkedin.com/in/abd-lhay-127a72396/)
+- **Email:** medabdlhay8@gmail.com
+
+---
+
+⭐️ *Code, learn, share — and make an impact.*
