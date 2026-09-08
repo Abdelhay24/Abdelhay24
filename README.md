@@ -28,10 +28,6 @@ Flask · Spring Boot · React · Flutter · PHP · MySQL · MongoDB · scikit-le
 `Django · Angular · PostgreSQL · Redis · Docker`
 Built at Kenz Mining SA, started as an internship project and now deployed and in daily use. Includes an Executive Decision Tracking (EDT) admin dashboard and generated PDF reports written for a non-technical executive audience (ReportLab + Matplotlib). Responsive layout built on a four-breakpoint SCSS mixin strategy, no CSS framework.
 
-**Meal ticketing system** — ZKTeco / ZKBio Time integration
-`Django · REST · biometric terminals`
-Employees scan at a biometric terminal, the platform records the order and prints a ticket at the counter. Built against a live deployment (3 terminals, ~600 employees, 200k+ transaction logs): cursor-based polling ingestion with a deliberate overlap window, unique constraints to absorb duplicate scans, and a pull-based print agent so printer or network outages queue jobs instead of dropping orders.
-
 **AI hackathon — 2nd place**
 Land-suitability analysis from satellite data, at Mauritania's largest AI hackathon.
 
