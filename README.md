@@ -13,19 +13,19 @@
 
 ---
 
-## 🚀 About me
+## About me
 
-- 🏭 **Software Engineer at Kenz Mining SA.** I build and run the internal platforms a mining company uses every day: performance dashboards, executive reporting, and biometric meal ticketing.
-- 🔁 **I own projects end to end.** I gather requirements with non-technical stakeholders, then handle design, backend, frontend, Docker deployment and support in production.
-- 🔐 **Pursuing a Master's in Cybersecurity**, so security is part of how I design systems from the start.
-- 🥈 **2nd place at Mauritania's largest AI hackathon.**
-- 🌍 Arabic · French · English
+- **Software Engineer at Kenz Mining SA.** I build and run the internal platforms a mining company uses every day: performance dashboards, executive reporting, and biometric meal ticketing.
+- **I own projects end to end.** I gather requirements with non-technical stakeholders, then handle design, backend, frontend, Docker deployment and support in production.
+- **Pursuing a Master's in Cybersecurity**, so security is part of how I design systems from the start.
+- **2nd place at Mauritania's largest AI hackathon.**
+- Arabic · French · English
 
 ---
 
-## 🏗️ Featured work — all in production
+## Featured work — all in production
 
-### 📊 Kenz Management — Performance & Executive Dashboard Platform
+### Kenz Management — Performance & Executive Dashboard Platform
 `Django` `DRF` `Angular` `PostgreSQL` `Redis` `Docker`
 
 The platform Kenz Mining SA uses to track production performance and executive decisions. It started as my internship project and grew into a system the company uses every day.
@@ -35,7 +35,7 @@ The platform Kenz Mining SA uses to track production performance and executive d
 - **Responsive UI with no CSS framework**, built on a custom four-breakpoint SCSS mixin system
 - Containerized deployment with Docker, and caching with Redis
 
-### 🍽️ Kenz Restaurant Ticketing — Biometric Meal Tickets
+### Kenz Restaurant Ticketing — Biometric Meal Tickets
 `ZKBio Time REST API` `ZKTeco terminals` `Print agent` `Job queue`
 
 An employee scans a fingerprint or face at a ZKTeco terminal, and a meal ticket prints at the counter within seconds. Management sees exactly how many dishes were served per meal, per day, and to whom.
@@ -46,18 +46,18 @@ An employee scans a fingerprint or face at a ZKTeco terminal, and a meal ticket 
 - A **low-latency push proxy** (target under 1s) is built and ready. It fails closed and never fakes a success to the terminal.
 - Design rule: the component on the unreliable network edge always starts the connection, and the server only answers.
 
-### ♟️ [Hassaniya Chess](https://hassaniyachess.tech/) — Mauritania's Chess Community Platform
+### [Hassaniya Chess](https://hassaniyachess.tech/) — Mauritania's Chess Community Platform
 `Django` `Angular`
 
 A platform for Mauritanian chess players, with **player profiles, ratings and tournaments** in one place.
-🔗 **Live:** [hassaniyachess.tech](https://hassaniyachess.tech/)
+**Live:** [hassaniyachess.tech](https://hassaniyachess.tech/)
 
-### 🛰️ AI Hackathon — 🥈 2nd Place
+### AI Hackathon — 2nd Place
 `Python` `Machine Learning` `Satellite data`
 
 Land-suitability analysis from satellite imagery at Mauritania's largest AI hackathon.
 
-### 🧾 Odoo 19 Enterprise — ERP for real businesses
+### Odoo 19 Enterprise — ERP for real businesses
 - **Restaurant & beach business (Deyina Beach SARL):** I connected point of sale to stock, so every dish sold deducts its ingredients automatically through Kit Bills of Materials. I also imported 70 inventory products and 25 bar recipes, fixed VAT (16%) and MRU currency rounding, and built a ReportLab audit report that proves each POS sale matches its stock movement.
 - **HR system** built on Odoo.
 - **Analytic accounting** architecture (analytic plans, accounts, distribution models), plus POS customization with Studio.
@@ -66,7 +66,7 @@ Land-suitability analysis from satellite imagery at Mauritania's largest AI hack
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 
 | | |
 |---|---|
@@ -80,7 +80,7 @@ Land-suitability analysis from satellite imagery at Mauritania's largest AI hack
 
 ---
 
-## 📈 GitHub activity
+## GitHub activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdelhay24&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
@@ -89,16 +89,16 @@ Land-suitability analysis from satellite imagery at Mauritania's largest AI hack
 
 ---
 
-## 🎯 Beyond code
+## Beyond code
 
-- ♟️ **Founding Nouackchott gambit Chess Club** in Nouakchott to grow chess locally
-- 🤖 **Going deeper on AI engineering:** RAG, embeddings and agents
+- **Founding NSH Chess Club** in Nouakchott to grow chess locally
+- **Going deeper on AI engineering:** RAG, embeddings and agents
 
 ---
 
 <p align="center">
   <b>Looking for a full-stack engineer who ships to production and owns it afterwards?</b><br/>
-  📫 <a href="mailto:medabdlhay8@gmail.com">medabdlhay8@gmail.com</a> · <a href="https://www.linkedin.com/in/abd-lhay-127a72396/">LinkedIn</a>
+  <a href="mailto:medabdlhay8@gmail.com">medabdlhay8@gmail.com</a> · <a href="https://www.linkedin.com/in/abd-lhay-127a72396/">LinkedIn</a>
 </p>
 
 <p align="center"><i>Code, learn, share — and make an impact.</i></p>
